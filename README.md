@@ -15,3 +15,5 @@ notebooks you create in the Jupyter environment.
 - **01-create-py3-data-science-kernel.ipynb** The same as above except with Python 3
 rather than Python 2.
 
+- **02-R-ggplot2.ipynb** Notebook demonstrating how to install and run a new pacakge, in 
+this case ggplot2. 
